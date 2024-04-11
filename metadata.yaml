@@ -1,0 +1,47 @@
+_repo: Dissertation-sur-la-nature-et-la-propagation-du-feu_73279
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Du Châtelet, Gabrielle Emilie Le Tonnelier de Breteuil, marquise
+    aliases:
+    - Du Chatelet, Gabrielle Emilie Le Tonnelier de Breteuil, marquise
+    - Breteuil, Gabrielle Emilie Le Tonnelier de, marquise Du Châtelet
+    - Châtelet, Gabrielle Emilie Le Tonnelier de Breteuil, marquise Du
+    - De Breteuil, Gabrielle Emilie Le Tonnelier, marquise Du Châtelet
+    - Du Chastelet, madame
+    - Du Châtelet-Lomont, Gabrielle Emilie Le Tonnelier de Breteuil, marquise
+    - DuChâtelet, Gabrielle-Emilie
+    - Le Tonnelier de Breteuil, Gabrielle Emilie, marquise Du Châtelet
+    - Tonnelier de Breteuil, Gabrielle Emilie de, marquise Du Châtelet
+    - Châtelet, Émilie du
+    birthdate: 1706
+    deathdate: 1749
+    gutenberg_agent_id: '56975'
+    url: http://www.gutenberg.org/2009/agents/56975
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet
+    - https://fr.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet
+description: ''
+gutenberg_issued: '2024-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73279'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k756786/f5.double
+pgterms:marc905: 20230911102022duchtelet
+pgterms:marc906: '1744'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bPrault fils, $c1744.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heat'
+- !lcsh 'Fire'
+- !lcc 'QC'
+- GITenberg
+title: Dissertation sur la nature et la propagation du feu
+url: http://www.gutenberg.org/ebooks/73279
