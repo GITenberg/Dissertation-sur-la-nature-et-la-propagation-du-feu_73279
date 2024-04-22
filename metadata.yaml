@@ -1,5 +1,8 @@
 _repo: Dissertation-sur-la-nature-et-la-propagation-du-feu_73279
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73279-h/images/cover.jpg
 creator:
   author:
     agent_name: Du Châtelet, Gabrielle Emilie Le Tonnelier de Breteuil, marquise
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet
     - https://fr.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73279#Dissertation-sur-la-nature-et-la-propagation-du-feu
 gutenberg_issued: '2024-03-28'
 gutenberg_type: Text
 identifiers:
